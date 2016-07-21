@@ -1,0 +1,11 @@
+{
+    "name": "vendor/php-rabbitmq",
+    "description": "Description of project php-rabbitmq.",
+    "authors": [
+        {
+            "name": "cambierr",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {}
+}
